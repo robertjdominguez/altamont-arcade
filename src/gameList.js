@@ -10,4 +10,14 @@ export const games = [
       genre: `Platformer`,
       term: `Fall 2020`,
     },
+    {
+      title: `Turkey Trot`,
+      author: `Bennettt M.`,
+      description: `Help the turkey find his way through the maze and past the obstacles. Before you know it, he'll be gobbling for victory at the end of the map!`,
+      link: `https://makecode.com/_CALCuVach2Uz`,
+      image: `images/gobbles.gif`,
+      protagonist: `Gobbles`,
+      genre: `Action-adventure`,
+      term: `Fall 2020`,
+    },
   ];
