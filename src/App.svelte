@@ -23,13 +23,13 @@
   }
 
   h1 {
-    font-size: 3vw;
+    font-size: 4vw;
   }
 
   .game-gallery {
     display: grid;
     grid-gap: 40px;
-    max-width: 1000px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 100px;
@@ -68,7 +68,7 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     grid-gap: 40px;
-    max-width: 1000px;
+    max-width: 1200px;
     margin-left: auto;
     margin-right: auto;
     padding-top: 100px;
@@ -79,13 +79,14 @@
   .site-info a {
     color: rgb(66, 4, 71);
     text-decoration: none;
-    border-bottom: solid 1px transparent;
-    padding-bottom: 1px;
+    border-bottom: solid 2px rgb(66, 4, 71);
+    padding: 2px;
     transition: ease-in-out 0.2s;
   }
 
   .site-info a:hover {
-    border-bottom: solid 2px rgb(66, 4, 71);
+    background: rgb(66, 4, 71);
+    color: white;
   }
 
   .site-info h3 {
@@ -97,7 +98,8 @@
     display: grid;
     place-items: center;
     grid-gap: 10px;
-    grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+    /* grid-template-columns: repeat(auto-fit, minmax(100px, 1fr)); */
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
   .stack img {
@@ -131,6 +133,12 @@
       margin-left: 10vw;
       margin-right: 10vw;
     }
+
+    .stack img {
+      width: 15vw;
+      height: auto;
+      border-radius: 6px;
+    }
   }
 </style>
 
@@ -148,7 +156,7 @@
     computer science students. Students used the
     <a href="https://arcade.makecode.com/" target="_blank">Microsoft MakeCode
       Arcade</a>
-    and developed the games exclusively using JavaScript. Additionally. to
+    and developed the games exclusively using JavaScript. Additionally, to
     illustrate their knowledge of working with open source software, they added
     their games to this site using pull requets on Github.
     <br /><br />
