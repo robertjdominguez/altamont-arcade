@@ -20,4 +20,14 @@ export const games = [
       genre: `Action-adventure`,
       term: `Fall 2020`,
     },
+    {
+      title: `Wizard Vs. Witches`,
+      author: `Zahid I.`,
+      description: `Help Merlin get to the big chest at the other side that is guarded by snakes, bats, and witches. Make sure to collect tiny chests on the way to get points. Watch out there are many booby traps!`,
+      link: `https://makecode.com/_TFmYtHRwK2Kc`,
+      image: `images/Merlin.gif`,
+      protagonist: `Merlin`,
+      genre: `Action-adventure`,
+      term: `Fall 2020`,
+    },
   ];
