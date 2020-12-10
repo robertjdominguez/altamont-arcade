@@ -30,4 +30,14 @@ export const games = [
       genre: `Action-adventure`,
       term: `Fall 2020`,
     },
+    {
+      title: `Airships Galore`,
+      author: `Marko Maglic-Kinnunen`,
+      description: `Airships Galore is a platformer game based om the airship levels from Super Mario. The game's protagonist name is Ludwig and he is fighting his entire Airshipp fleet just to get better wages.`,
+      link: `https://makecode.com/_15W3MXLzoCKj`,
+      image: `images/download.gif`,
+      protagonist: `Ludwig`,
+      genre: `Platformer`,
+      term: `Fall 2020`,
+    },
   ];
