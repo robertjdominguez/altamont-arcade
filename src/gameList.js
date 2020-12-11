@@ -30,4 +30,14 @@ export const games = [
       genre: `Action-adventure`,
       term: `Fall 2020`,
     },
+    {
+      title: `Dodge and weave`,
+      author: `Bennett M.`,
+      description: `Dodge projectiles in three different levels.`,
+      link: `https://makecode.com/_fhzW78HARi86`,
+      image: `images/index.gif`,
+      protagonist: `Heart`,
+      genre: `survival`,
+      term: `Fall 2020`,
+    },
   ];
