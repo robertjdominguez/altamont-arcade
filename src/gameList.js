@@ -35,7 +35,7 @@ export const games = [
       author: `Abbey S.`,
       description: `Get Messi to the Golden Goal without getting destroyed by Ronaldo. Collect the soccer balls for points.`,
       link: `https://makecode.com/_JDVRJ9W6mXLv`,
-      image: `images/messi.gif`,
+      image: `images/Messi.gif`,
       protagonist: `Messi`,
       genre: `Sports-Adventure`,
       term: `Fall 2020`,
