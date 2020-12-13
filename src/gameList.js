@@ -30,8 +30,8 @@ export const games = [
       genre: `Action-adventure`,
       term: `Fall 2020`,
     },
-  ];
-      title: `Messi Soccer`,
+    {
+     title: `Messi Soccer`,
       author: `Abbey S.`,
       description: `Get Messi to the Golden Goal without getting destroyed by Ronaldo. Collect the soccer balls for points.`,
       link: `https://makecode.com/_JDVRJ9W6mXLv`,
@@ -41,3 +41,5 @@ export const games = [
       term: `Fall 2020`,
     },
   ];
+     
+  
