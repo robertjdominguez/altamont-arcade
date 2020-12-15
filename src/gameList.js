@@ -31,6 +31,16 @@ export const games = [
       term: `Fall 2020`,
     },
     {
+      title: `Dodge and weave`,
+      author: `Bennett M.`,
+      description: `In dodge and weave you need to dodge all of the projectiles for 2 minutes. Bones and spears will come flying at you throught the game. There are three different levels with different mechanics. Have fun!`,
+      link: `https://makecode.com/_fhzW78HARi86`,
+      image: `images/index.gif`,
+      protagonist: `Heart`,
+      genre: `survival`,
+      term: `Fall 2020`,
+    },
+  {
       title: `Messi Soccer`,
       author: `Abbey S.`,
       description: `Get Messi to the Golden Goal without getting destroyed by Ronaldo. Collect the soccer balls for points.`,
