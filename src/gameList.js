@@ -40,4 +40,36 @@ export const games = [
       genre: `survival`,
       term: `Fall 2020`,
     },
+  {
+      title: `Messi Soccer`,
+      author: `Abbey S.`,
+      description: `Get Messi to the Golden Goal without getting destroyed by Ronaldo. Collect the soccer balls for points.`,
+      link: `https://makecode.com/_8gXXmYRt0Dh5`,
+      image: `images/messi.gif`,
+      protagonist: `Messi`,
+      genre: `Sports-Adventure`,
+      term: `Fall 2020`
+    },
+    {
+      title: `Airships Galore`,
+      author: `Marko Maglic-Kinnunen`,
+      description: `Airships Galore is a platformer game based om the airship levels from Super Mario. The game's protagonist name is Ludwig and he is fighting his entire Airshipp fleet just to get better wages.`,
+      link: `https://makecode.com/_15W3MXLzoCKj`,
+      image: `images/download.gif`,
+      protagonist: `Ludwig`,
+      genre: `Platformer`,
+      term: `Fall 2020`,
+    },
+     {
+        title: `Zombie Invasion`,
+        author: `Aadi P.`,
+        description: `Run around the street killing zombies to earn points. More and more zombies spawn in as time goes on so make sure you use your lives wisely.`,
+        link: `https://makecode.com/_YWXdPbRmMCyj`,
+        image: `images/davethedj.gif`,
+        protagonist: `Dave The DJ`,
+        genre: `Action`,
+        term: `Fall 2020`,
+    },
   ];
+     
+  
