@@ -33,7 +33,7 @@ export const games = [
     {
       title: `Dodge and weave`,
       author: `Bennett M.`,
-      description: `Dodge projectiles in three different levels.`,
+      description: `In dodge and weave you need to dodge all of the projectiles for 2 minutes. Bones and spears will come flying at you throught the game. There are three different levels with different mechanics. Have fun!`,
       link: `https://makecode.com/_fhzW78HARi86`,
       image: `images/index.gif`,
       protagonist: `Heart`,
