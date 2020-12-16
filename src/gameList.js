@@ -54,7 +54,7 @@ export const games = [
         title: `Zombie Invasion`,
         author: `Aadi P.`,
         description: `Run around the street killing zombies to earn points. More and more zombies spawn in as time goes on so make sure you use your lives wisely.`,
-        link: `https://makecode.com/_YWXdPbRmMCyj`,
+        link: `https://makecode.com/_4P7L8aWAq46F`,
         image: `images/davethedj.gif`,
         protagonist: `Dave The DJ`,
         genre: `Action`,
