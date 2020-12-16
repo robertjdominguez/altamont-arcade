@@ -71,16 +71,6 @@ export const games = [
         term: `Fall 2020`,
     },
     {
-        title: `Zombie Invasion`,
-        author: `Aadi P.`,
-        description: `Run around the street killing zombies to earn points. More and more zombies spawn in as time goes on so make sure you use your lives wisely.`,
-        link: `https://makecode.com/_YWXdPbRmMCyj`,
-        image: `images/davethedj.gif`,
-        protagonist: `Dave The DJ`,
-        genre: `Action`,
-        term: `Fall 2020`,
-    },
-    {
       title: `Valkyrie Flappy Bird`,
       author: `Virginia W.`,
       description: `Help the Valkyrie fly through absticles.Collect hammers as you go and reach Odin at the end.`,
